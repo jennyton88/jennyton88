@@ -8,3 +8,5 @@ Improving [Devlogs Maker](https://github.com/jennyton88/devlogs_maker), which yo
 
 - [jennyton88.github.io](https://jennyton88.github.io/) - My website!
 - [@jennydevs.bsky.social](https://bsky.app/profile/jennydevs.bsky.social) - Bluesky
+
+![White, yellow, and blue repeating stripe border](assets/border.png)
