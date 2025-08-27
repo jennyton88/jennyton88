@@ -1,3 +1,10 @@
 # Hi, I'm Jenny!
 
-[jennyton88.github.io](https://jennyton88.github.io/) - My website!
+## I'm currently working on...
+
+Improving [Devlogs Maker](https://github.com/jennyton88/devlogs_maker), which you can find on my Github. I'm also working on some games, and additional software in the background. You may find updates about them on my social media.
+
+## Find my stuff at...
+
+- [jennyton88.github.io](https://jennyton88.github.io/) - My website!
+- [@jennydevs.bsky.social](https://bsky.app/profile/jennydevs.bsky.social) - Bluesky
