@@ -2,7 +2,13 @@
 
 ## I'm currently working on...
 
-Improving [Devlogs Maker](https://github.com/jennyton88/devlogs_maker), which is pinned below. I'm also working on some games, and additional software in the background. You may find updates about them on my social media.
+Making a small game for (or at least related to) Halloween. I'm also working on other additional programs in the background. And miscellaneous experiments.
+
+## Current WIP Projects
+
+- Small unnamed Halloween game
+- [Devlogs Maker](https://github.com/jennyton88/devlogs_maker)
+- Small game project from 2023
 
 ## Find my stuff at...
 
